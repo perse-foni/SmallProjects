@@ -47,18 +47,3 @@ namespace Animal
         }
     }
 }
-
-
-// parent class animal properties:pet, tail
-// sound() sleep()  parent class
-// :class cat, dog, tiger + property cat + color, dog + name, tiger + age
-// :class diff methods
-
-// eat() interface : parent class , give body to : classes. 
-
-//use encapsulation , not default constructor,
-// objects output info.
-
-// virtual override methods
-//constructors
-//main objects
